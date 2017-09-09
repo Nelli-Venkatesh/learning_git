@@ -1,7 +1,5 @@
 # learning_git
 
-Ironman
-Superman
-batman
-spiderman
+Hello world
 
+This is venkatesh Nelli
